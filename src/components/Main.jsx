@@ -18,10 +18,10 @@ export default function Main() {
             </section>
             <aside>
                 <h2>Favourite photos</h2>
-                <a href="favorite-1.jpg"><img src="../../public/assets/favorite-1.jpg" /></a>
-                <a href="favorite-2.jpg"><img src="../../public/assets/favorite-2.jpg" /></a>
-                <a href="favorite-3.jpg"><img src="../../public/assets/favorite-3.jpg" /></a>
-                <a href="favorite-4.jpg"><img src="../../public/assets/favorite-4.jpg" /></a>
+                <a href="favorite-1.jpg"><img src="/assets/favorite-1.jpg" /></a>
+                <a href="favorite-2.jpg"><img src="/assets/favorite-2.jpg" /></a>
+                <a href="favorite-3.jpg"><img src="/assets/favorite-3.jpg" /></a>
+                <a href="favorite-4.jpg"><img src="/assets/favorite-4.jpg" /></a>
             </aside>
         </main>
     );
